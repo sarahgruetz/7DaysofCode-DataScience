@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/sarahgruetz/7DaysofCode-DataScience/blob/main/images/7daysofcode.png" />
+</p>
+
 # #7DaysofCode - Data Science
 
 O desafio #7DaysofCode de Ciência de Dados tem como objetivo passar por todas as etapas de um projeto de dados.
